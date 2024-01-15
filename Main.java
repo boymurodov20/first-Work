@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Student");
 
         System.out.println(" bhuiiurfh");
+        System.out.println(" sdvkhdkfd");
 
     }
 }
