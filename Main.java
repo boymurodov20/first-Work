@@ -7,7 +7,9 @@ public class Main {
         System.out.println("Student");
 
         System.out.println(" bhuiiurfh");
+        System.out.println("jjjjjj");
         System.out.println(" sdvkhdkfd");
+        System.out.println("aaaaaaaaaaa");
 
     }
 }
